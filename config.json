@@ -1,0 +1,10 @@
+{
+    "DESIGN_NAME": "mac",
+    "VERILOG_FILES": "dir::src/mac.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10.0,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 300 300",
+    "CORE_UTIL": 40,
+    "PL_TARGET_DENSITY": 0.40
+}
